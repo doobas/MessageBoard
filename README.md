@@ -1,8 +1,8 @@
-#Message board
+# Message board
 
 You can add messages here.
 
-#Prerequisites
+# Prerequisites
 
 ```PHP >=7.1```
 
@@ -16,7 +16,7 @@ composer install
 ```
 It will generate all required 
 
-#Usage
+# Usage
 
 - Load page.
 - Fill out message form.
