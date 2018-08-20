@@ -16,7 +16,7 @@ You can add messages here.
 ```bash 
 composer install
 ```
-It will generate all required 
+It will generate all required psr-4 autoload files
 
 # Usage
 
