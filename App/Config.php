@@ -10,22 +10,22 @@ class Config
     /**
      *  Database host
      */
-    const DB_HOST = "127.0.0.1";
+    const DB_HOST = "";
 
     /**
      *  Database username
      */
-    const DB_USERNAME = "root";
+    const DB_USERNAME = "";
 
     /**
      *  Database user password
      */
-    const DB_PASSWORD = "root";
+    const DB_PASSWORD = "";
 
     /**
      *  Database name
      */
-    const DB_DATABASE = "emotion";
+    const DB_DATABASE = "";
 
     /**
      *  Directory where view files are saved.

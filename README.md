@@ -8,6 +8,8 @@ You can add messages here.
 
 # Installation
 
+- Create mysql database and import `DB.sql` dump.
+
 - Open `App/Config.php` and fill config file with Database info
 
 - Simply run:
